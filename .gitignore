@@ -1,0 +1,8 @@
+# Ignorar arquivos .env
+*.env
+
+# Ignorar arquivos de ambiente
+.env
+# Outros arquivos a serem ignorados
+node_modules/
+dist/
